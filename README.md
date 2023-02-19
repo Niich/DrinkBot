@@ -1,8 +1,8 @@
-![alt text](https://github.com/Niich/DrinkBot/blob/main/img/idea_4_render.jpg?raw=true)
 
 # DrinkBot
 Info and code for a drink making robot
 
+![Render of drinkbot](https://github.com/Niich/DrinkBot/blob/main/img/idea_4_render.jpg?raw=true)
 # Parts
 Note: most parts are common on 3d printers. If you can find a broken printer on ebay or craigslist that might be a good way to save some money on the build.
 
